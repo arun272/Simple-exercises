@@ -1,4 +1,4 @@
-# practice
+# To read lines from a file and return the ages
 f=open('ages.txt','r').readlines()
 name = input("Name:")
 name_found=False
